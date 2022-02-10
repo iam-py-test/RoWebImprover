@@ -193,3 +193,6 @@ libnet.ro##.row-header-baner
 ! https://github.com/S0dV/RoWebImprover/issues/1
 ||mediafax.ro/dacia-plant
 alephnews.ro##.top-news.news-list > div
+
+! evz.ro
+evz.ro###ado970p1
