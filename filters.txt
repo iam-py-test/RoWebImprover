@@ -16,7 +16,7 @@ romaniatv.net##.SC_TBlock
 reno.ro,daciaclub.ro##.adsense
 reno.ro,daciaclub.ro##.profitshare
 
-! https://github.com/BottledSoda/RoWebImprover/issues/1
+! cancan.ro
 cancan.ro##.height-sm-360.height-xs-200.mg-bottom-20
 cancan.ro##.strawberry-ads-manager-container
 cancan.ro##.height-250
@@ -25,7 +25,7 @@ cancan.ro##p:nth-of-type(12)
 cancan.ro##p:nth-of-type(13)
 cancan.ro##p:nth-of-type(14)
 
-! https://github.com/BottledSoda/RoWebImprover/issues/2
+! 
 ||cdn.g4media.ro/wp-content/uploads/2022/01/spit-sf-sava.jpg$image
 
 ! stiripesurse.ro
@@ -53,21 +53,21 @@ protv.md##.gAdWrap.g-footer-fixed.text-center
 stirilekanald.ro##section.pad.section:nth-of-type(10)
 stirilekanald.ro##.page-wrap > div
 
-! https://github.com/BottledSoda/RoWebImprover/issues/3
+! lauralaurentiu.ro
 lauralaurentiu.ro##.code-block
 
-! https://github.com/BottledSoda/RoWebImprover/issues/4
+! retete.unica.ro#
 retete.unica.ro##.strawberry_ads_container
 retete.unica.ro##.sam_branding
 
-! https://github.com/BottledSoda/RoWebImprover/issues/5
+! retetepractice.ro
 retetepractice.ro##.textwidget
 
-! https://github.com/BottledSoda/RoWebImprover/issues/6
+! cutiacuretete.ro
 cutiutacuretete.ro##.mb30.mt30 > div
 cutiutacuretete.ro##div[style="margin:10px 0 10px 0; text-align:center; height:400px"]
 
-! https://github.com/BottledSoda/RoWebImprover/issues/7
+! curs-valutar-bnr.ro
 curs-valutar-bnr.ro##+js(no-xhr-if, adsbygoogle)
 
 ! ziare.com
@@ -169,10 +169,9 @@ savoriurbane.com##.td-container-wrap.td-header-menu-wrap-full
 9am.ro##[class="text-center minh-250"]
 9am.ro##[class^="ad-in-artilce"]
 
-! https://github.com/BottledSoda/RoWebImprover/issues/8
 ||i.imgur.com/wP7xnhz.png$image
 
-! https://github.com/BottledSoda/RoWebImprover/issues/9
+! dual-gaming.ro
 dual-gaming.ro###tacw-stickyhhlzwscgb > .tacw-container
 dual-gaming.ro###tacw-sticky44nljq994 > .tacw-container
 
@@ -190,3 +189,6 @@ libnet.ro##.row-header-baner
 ! serveresamp.ro
 ||serveresamp.com/banner.jpg$image
 ||jocurismechere.com/downloadcs2.jpg$image
+
+! https://github.com/S0dV/RoWebImprover/issues/1
+||mediafax.ro/dacia-plant
